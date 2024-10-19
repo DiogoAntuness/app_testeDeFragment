@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Treino Fragment</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_1" />
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
